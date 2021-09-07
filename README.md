@@ -1,7 +1,8 @@
 # benar_salah
 
 Aplikasi ini merupakan bahan untuk belajar membuat kuis benar salah, berdasarkan aplikasi yang telah dibuat
-sebelumnya [Burung Nias](https://github.com/sslaia/burung_nias) (pastikan membuka versi finalnya: branch pertemuan-7!).
+sebelumnya [Burung Nias](https://github.com/sslaia/burung_nias).
+Pastikan membuka versi finalnya: [branch pertemuan-7](https://github.com/sslaia/burung_nias/blob/pertemuan-7/lib/main.dart)!
 
 ## Tujuan
 - belajar bagaimana membuat daftar (_list_) pertanyaan,

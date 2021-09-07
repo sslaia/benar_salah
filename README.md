@@ -1,14 +1,22 @@
 # benar_salah
 
-Aplikasi ini merupakan bahan untuk belajar membuat kuis, berdasarkan aplikasi yang telah dibuat
-sebelumnya **Burung Nias**
+Aplikasi ini merupakan bahan untuk belajar membuat kuis benar salah, berdasarkan aplikasi yang telah dibuat
+sebelumnya [Burung Nias](https://github.com/sslaia/burung_nias) (pastikan membuka versi finalnya: branch pertemuan-7!).
+
+## Tujuan
+- belajar bagaimana membuat daftar (_list_) pertanyaan,
+- mengambil salah satu pertanyaan di dalamnya dan menampilkannya
+- merekam jejak pertanyaan yang telah ditampilkan
+- mencatat nilai, yang diperoleh
+- menampilkan nilai tsb. di layar dalam bentuk angka
+- menampilkan nilai tsb. secara grafis
 
 ## Bagaimana mulai?
 
-1. Ciptakan aplikasi baru Flutter di dalam **Android Studio**: File > New > New Flutter project
+1. Ciptakan aplikasi baru Flutter di dalam **Android Studio**: **File > New > New Flutter project**
 2. Beri nama aplikasi **benar_salah**
-3. Setelah selesai, buka berkas **main.dart** dan kosongkan (hapus semua kode yang telah tersedia).
-4. Buka berkas main.dart dari aplikasi **Burung Nias**
+3. Setelah selesai, buka berkas **main.dart** dan kosongkan (hapus semua kode yang otomatis telah disediakan Android Studio).
+4. Buka berkas main.dart dari aplikasi [Burung Nias](https://github.com/sslaia/burung_nias/blob/pertemuan-7/lib/main.dart)
 5. Kopi semua isinya, lalu sisipkan di dalam berkas main.dart aplikasi **Benar Salah**
 6. Sesuaikan judul (ganti Burung Nias ke Benar Salah)
 7. Selesai
